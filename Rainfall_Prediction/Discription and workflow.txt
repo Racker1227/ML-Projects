@@ -1,0 +1,28 @@
+Rainfall Prediction Model 🌧️
+This project focuses on building a Rainfall Prediction Model using machine learning techniques to forecast rainfall based on historical weather data. The aim is to assist in better planning and decision-making.
+
+Workflow:
+Data Collection: Compiled historical weather and rainfall data from reliable sources.
+
+Exploratory Data Analysis (EDA): Performed visualizations and statistical analysis to identify trends, patterns, and anomalies.
+
+Data Preprocessing: Cleaned the dataset by handling missing values, encoding categorical features, and scaling numerical variables.
+
+Train-Test Split: Split the dataset into training and testing subsets for model evaluation.
+
+Modeling: Used the Random Forest Classifier for its robustness and effectiveness in classification tasks.
+
+Hyperparameter Tuning: Optimized model performance using techniques like Grid Search and Randomized Search.
+
+Evaluation: Assessed the model's performance on test data, achieving 85.1% accuracy with balanced precision, recall, and F1-scores.
+
+Prediction: Tested the model on unseen data to predict rainfall and validate its real-world applicability.
+
+Highlights:
+Achieved Test Accuracy: 85.1%.
+
+Balanced performance across both "Rain" and "No Rain" classes.
+
+Fully prepared for deployment to generate actionable predictions.
+
+This model demonstrates a practical use case of machine learning to solve real-world challenges, particularly in weather forecasting and risk management.

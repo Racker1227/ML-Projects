@@ -1,0 +1,5 @@
+The project aims to develop a Rainfall Prediction Model. It begins with Data Collection, where historical weather and rainfall data are gathered. EDA (Exploratory Data Analysis) is performed to uncover patterns, trends, and anomalies in rainfall and meteorological parameters. Data Preprocessing ensures the dataset is clean by handling missing values, scaling numerical variables, and encoding categorical features.
+
+The data is then split into training and testing subsets to evaluate the model's performance. A Random Forest Classifier is used for prediction due to its robustness and ability to handle complex datasets. Hyperparameter Tuning is performed to optimize the model, improving prediction accuracy. The model's performance is tested on Unknown Data to validate its ability to generalize effectively.
+
+Finally, the Trained Model is deployed, and Predictions are generated to forecast rainfall based on new weather data, supporting better planning and decision-making.
